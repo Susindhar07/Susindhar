@@ -1,4 +1,4 @@
-# Deep Learning Lab Series — 22AIE304
+# Deep Learning Lab 
 
 A complete implementation of all four Deep Learning lab experiments, progressing from a basic Perceptron to a full Deep Neural Network for MNIST digit classification.
 
