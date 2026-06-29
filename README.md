@@ -1,5 +1,4 @@
 # Deep Learning Lab Series — 22AIE304
-**Batch: 2026–2027 | Team Number: 32**
 
 A complete implementation of all four Deep Learning lab experiments, progressing from a basic Perceptron to a full Deep Neural Network for MNIST digit classification.
 
